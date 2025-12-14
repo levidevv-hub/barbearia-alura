@@ -1,0 +1,19 @@
+# Sistema
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Node (caso use no futuro)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Arquivos temporários
+*.log
+*.tmp
+*.bak
+
+# Cache
+.cache/
